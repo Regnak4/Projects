@@ -1,0 +1,1 @@
+class SeriesEndedException extends Exception {}

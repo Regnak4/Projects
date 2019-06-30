@@ -1,0 +1,1 @@
+class WrongDateException extends Exception {}

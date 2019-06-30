@@ -1,0 +1,1 @@
+class WrongSeriesException extends Exception {}
